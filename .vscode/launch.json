@@ -1,0 +1,15 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+      {
+        "type": "java",
+        "name": "Connect4",
+        "request": "launch",
+        "mainClass": "connect4.Connect4",
+        "classPaths": [
+          "${workspaceFolder}/bin"
+        ]
+      }
+    ]
+  }
+  
